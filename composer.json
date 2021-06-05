@@ -1,6 +1,6 @@
 {
-    "name": "topthink/think-orm",
-    "description": "think orm",
+    "name": "blackjack200/think-orm",
+    "description": "fork of think orm",
     "keywords": [
         "orm",
         "database"
